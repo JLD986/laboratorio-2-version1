@@ -24,3 +24,4 @@ elif num2>num1 and num2 > num3:
         print(num2, 'es el segundo numero mas alto')
         print("el numero mas pequeño es ", num2)
     else:print()
+print("FIN")
